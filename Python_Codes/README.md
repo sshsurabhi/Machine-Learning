@@ -5,4 +5,6 @@ I was very happy at that time and I wanted to share this codes because this was 
 
 I used normal virtual environment in PyCharm to run this codes. No dependencies are needed to run these codes.
 
+exx: ~ python test.py
+
 ## Thank You.
